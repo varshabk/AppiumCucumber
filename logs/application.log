@@ -1,0 +1,12 @@
+01-18-2023 21:34:15 BaseTest.java INFO  [main] base.BaseTest 73 - setting up the driver
+01-18-2023 21:34:15 BaseTest.java INFO  [main] base.BaseTest 76 - loading the property file
+01-18-2023 21:34:15 BaseTest.java INFO  [main] base.BaseTest 78 - getting the desired capabilities
+01-18-2023 21:34:19 BaseTest.java INFO  [main] base.BaseTest 73 - setting up the driver
+01-18-2023 21:34:19 BaseTest.java INFO  [main] base.BaseTest 76 - loading the property file
+01-18-2023 21:34:19 BaseTest.java INFO  [main] base.BaseTest 78 - getting the desired capabilities
+01-18-2023 21:35:09 BaseTest.java INFO  [main] base.BaseTest 73 - setting up the driver
+01-18-2023 21:35:09 BaseTest.java INFO  [main] base.BaseTest 76 - loading the property file
+01-18-2023 21:35:09 BaseTest.java INFO  [main] base.BaseTest 78 - getting the desired capabilities
+01-18-2023 21:35:45 BaseTest.java INFO  [main] base.BaseTest 73 - setting up the driver
+01-18-2023 21:35:45 BaseTest.java INFO  [main] base.BaseTest 76 - loading the property file
+01-18-2023 21:35:45 BaseTest.java INFO  [main] base.BaseTest 78 - getting the desired capabilities
